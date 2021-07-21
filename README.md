@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emad-likhon
+- 👋 Hi, I’m Emad Hossain Likhon
 - 👀 I’m interested in website designing 
-- 🌱 I’m currently learning wordpress 
+- 🌱 I’m currently learning wordpress and Shopify 
 - 💞️ I’m looking to collaborate on projects linked with website development 
 - 📫 How to reach me 👉 emadhossainlikhon@gmail.com
 
