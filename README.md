@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emad Hossain Likhon
-- 👀 I’m interested in website designing 
-- 🌱 I’m currently learning wordpress and Shopify 
-- 💞️ I’m looking to collaborate on projects linked with website development 
+- 👀 I’m interested WSN
+- 🌱 I’m currently learning WSN
+- 💞️ I’m looking to collaborate on projects linked with WSN
 - 📫 How to reach me 👉 emadhossainlikhon@gmail.com
 
 <!---
